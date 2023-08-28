@@ -1,0 +1,17 @@
+/* custom.css */
+.custom-side-panel {
+    width: 200px; /* Adjust the width as needed */
+}
+
+/* custom-styles.css */
+.custom-table-header {
+    background-color: #f7f7f8 !important;
+    border-color: #ddd;
+    color: #5f6468;
+    font-weight: 300;
+    font-size: 16px;  }
+
+    .custom-table-body {
+     color: yellow;
+    }
+
